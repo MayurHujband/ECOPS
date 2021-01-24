@@ -1,0 +1,2 @@
+# ECOPS
+Online crime reporting &amp; management system is useful for police departments for handling crime information &amp; allowing information to public. This can help police stations to organize data more efficiently &amp; deal with cases in less time. It contains 3 modules as User, Admin &amp; Department. User can file complaints &amp; can check status of it.Department can check, delete or add status to complaint. Admin manages departments &amp; thieves information.
